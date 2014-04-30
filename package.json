@@ -38,5 +38,9 @@
   },
   "keywords": [
     "gruntplugin"
-  ]
+  ],
+  "dependencies": {
+    "grunt-run": "~0.2.2",
+    "shuss": "~1.0.1"
+  }
 }
