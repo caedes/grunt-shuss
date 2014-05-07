@@ -26,7 +26,6 @@
   },
   "dependencies": {
     "grunt": "~0.4.4",
-    "grunt-run": "~0.2.2",
     "shuss": "~1.0.1"
   }
 }
